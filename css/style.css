@@ -68,7 +68,7 @@
   width: 100%;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 1024px){
   .column-1,
   .column-2,
   .column-3,
