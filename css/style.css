@@ -100,7 +100,7 @@ body {
   margin-bottom: 70px;
   text-align: center;
   margin: 0 auto;
-  overflow:scroll;
+  overflow:auto;
 }
 
 b {
@@ -147,16 +147,15 @@ nav {
 }
 
 .ellephoto{
-  border-radius: 100px;
-  height: 350px;
+  border-radius: 500px;
+  height: 250px;
   width: auto;
-  vertical-align: middle;
-  display: inline-block;
+  margin-top: 100px;
 }
 
 .aboutMe{
   display: inline-block;
-  overflow:scroll;
+  overflow:auto;
 }
 
 
